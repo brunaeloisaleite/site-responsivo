@@ -1,3 +1,10 @@
+
+@import url("style/header.css");
+
+*{ /*Seletor universal para resetar as bordas da páginas*/
+    padding:0px;
+    margin:0px;
+}
 :root {
     --cor-de-fundo: #EBECEE;
 }
